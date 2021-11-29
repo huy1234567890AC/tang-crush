@@ -1,5 +1,6 @@
 
-    introTitle: 'Babe à!',
+    introTitle: 'Babeeee
+
     introDesc: `Trái đất vốn lạ thường
     Mà sao em cứ đi nhầm đường
  vào tim anh lẻ g
